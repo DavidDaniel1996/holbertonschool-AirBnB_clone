@@ -11,6 +11,7 @@
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     display: inline-block;
+    transform: translate(70px, 0);
 }
 
 .places h2 {
@@ -31,7 +32,7 @@
 }
 
 article:last-of-type{
-    transform: translate(55%, 0);
+    transform: translate(70%, 0);
 }
 
 .price_by_night p {
